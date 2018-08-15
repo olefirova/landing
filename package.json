@@ -1,0 +1,31 @@
+{
+  "name": "landing",
+  "version": "0.0.1",
+  "dependencies": {
+    "npm": "^6.4.0"
+  },
+  "description": "This is my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olefirova/landing.git"
+  },
+  "author": "Alexandra Olefirova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olefirova/landing/issues"
+  },
+  "homepage": "https://github.com/olefirova/landing#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp.spritesmith": "^6.9.0",
+    "rimraf": "^2.6.2"
+  }
+}
